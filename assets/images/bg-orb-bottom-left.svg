@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 200">
+  <!-- Generator: Adobe Illustrator 30.4.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 226)  -->
+  <defs>
+    <style>
+      .st0 {
+        opacity: .2;
+      }
+
+      .st1 {
+        fill: #bfbebd;
+      }
+
+      .st2 {
+        fill: url(#_무제_그라디언트_207);
+      }
+    </style>
+    <linearGradient id="_무제_그라디언트_207" data-name="무제 그라디언트 207" x1=".8" y1="100.1" x2="299.4" y2="100.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".2"/>
+      <stop offset=".5" stop-color="#dbdcdc" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#fdfdfd" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Ellipse_7" class="st0">
+    <ellipse class="st2" cx="150.1" cy="100.1" rx="149.3" ry="98.3"/>
+    <path class="st1" d="M150.1,1.8c48.1.3,101.1,14.5,132.7,53,22.3,27.5,22.3,63.1,0,90.7-31.5,38.6-84.6,53-132.8,53.4-48.2-.4-101.3-14.8-132.8-53.4-22.2-27.6-22.2-63.2,0-90.7C48.9,16.3,102,2.1,150.1,1.8h0ZM150.1,1.8c-48,.4-101,14.7-132.4,53.2-22.1,27.4-22.1,62.8,0,90.1,31.5,38.4,84.4,52.5,132.3,52.8,47.9-.3,100.8-14.4,132.3-52.8,22.1-27.3,22.2-62.7,0-90.1C251,16.5,198.1,2.3,150.1,1.8h0Z"/>
+  </g>
+</svg>
